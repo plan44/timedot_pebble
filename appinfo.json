@@ -1,0 +1,22 @@
+{
+  "uuid": "9b3aab35-b092-48e9-8002-dc8f572c50bc",
+  "shortName": "TimeDot",
+  "longName": "TimeDot",
+  "companyName": "plan44.ch",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_timedot_watch.png"
+      }
+    ]
+  }
+}
